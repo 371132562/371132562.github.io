@@ -1,0 +1,1 @@
+{"version":3,"file":"index-360a74e9.js","sources":["../../src/pages/NbBattle/index.vue"],"sourcesContent":["<script setup></script>\n\n<script>\nexport default {\n  name: 'NbBattle'\n}\n</script>\n\n<template />\n\n<style scoped lang=\"scss\"></style>\n"],"names":["_sfc_main"],"mappings":"qEAGA,MAAAA,EAAA,CACE,KAAA,UACF"}

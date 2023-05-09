@@ -1,0 +1,1 @@
+{"version":3,"file":"index-eee73bd3.js","sources":["../../src/pages/NbAbout/index.vue"],"sourcesContent":["<script setup></script>\n\n<script>\nexport default {\n  name: 'NbAbout'\n}\n</script>\n\n<template />\n\n<style scoped lang=\"scss\"></style>\n"],"names":["_sfc_main"],"mappings":"qEAGA,MAAAA,EAAA,eAEA"}
